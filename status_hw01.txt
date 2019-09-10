@@ -1,0 +1,33 @@
+﻿Please fill in answers to the questions below:
+
+
+1. What's your name?
+My name is Saurabh Bothra
+
+2. Which VPS & domain providers did you choose?
+I purchased vps from vultr. My vps is sabothra-vps (140.82.15.129)
+with debian 10 OS. Ram is 1GB and storage is 25GB SSD.
+I purchased domain "saurabhbothra.xyz" from namecheap.
+
+3. What domain name did you register?
+The domain name I registered is saurabhbothra.xyz
+
+4. Which parts of this assignment did you have trouble with, if any?
+I had trouble with understanding the configuration files of nginx
+server. I took help of professor's notes and understood it.
+
+5. Whats the URL for your git repository?
+The url for my git repository is
+https://github.com/saurabhbothra/cs5010-hw01
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
+
